@@ -40,5 +40,5 @@ function generateAccountName() {
         an += achternamen[i][0];
     }
 
-    return vn + an + "_immalle";
+    return vn + an + "-immalle";
 }
